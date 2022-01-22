@@ -6,6 +6,6 @@
     linear-gradient(90deg, #333 1px, transparent 1px);
 }
 .Cell {
-  background: #ccc;
+  background: rgb(12, 204, 60);
   position: absolute;
 }
